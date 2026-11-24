@@ -1,0 +1,158 @@
+{
+  "run": 140,
+  "date": "2026-10-24",
+  "status": "Accepted human proof audit; sameidentity finalcheckpointv1 actually saved/downloaded/restored; packaging2 and all3 independent finalrecoveryACK complete.",
+  "mathematical_scope": "Same ONE entire actual Keller F/FULL actual nonproper S/connected originalsource covering as138–139, arbitrary finite generic degree d. No fixedA/Bnu/geom6/clean or unibranch additions. No JC resolution or originality/priority claim.",
+  "accepted": {
+    "definitions": {
+      "R": "reduced union of actual nonidentity-inertia target components C_i",
+      "n_i": "generic ORIGINAL-source fiber cardinality over active C_i, at least1",
+      "N(p)": "#ORIGINAL-source F^-1(p) for EVERY p in R, may be zero",
+      "m_i(p)": "number of target normalization branches of C_i over p; 0 off C_i",
+      "M(p)": "sum_ACTIVE m_i(p)",
+      "sigma_R": "sum_{p in Sing R}(M(p)-1), topological branch gluing not algebraic delta",
+      "B": "sum_INACTIVE b_i(1-r_i), same138 weights/normalization punctures",
+      "mu_i": "d-#Fix of ACTUAL active meridian in the SAME covering",
+      "E": "accepted139 source defect, E=W+sigma_C=sum_j(n_j-1)+Delta_C",
+      "z": "number of DISTINCT multibranch singular points p of R with M(p)>=2,N(p)=0; not assumed positive"
+    },
+    "new_pointwise_on_R": "For each target normalization point t over p on C_i, PRESENT normalized originalsource fiber has exactly N(p) index1 points. Finite normalized curve completion has totaldegree n_i. Its weighted missing finite-value mass is n_i-N(p)>=0. Gather ALL source normalization components over C_i, not just one.",
+    "finite_hole_identity": "W=sum_{p in R}sum_i m_i(p)*(n_i-N(p)); finite support, includes missing index1 points",
+    "exact_source_defect": "E=sum_{p in R}[sum_i m_i(p)*n_i-N(p)]; finite support",
+    "new_lower_bound": "E>=sigma_R+z",
+    "new_strong_necessary_inequality": "B+sum_ACTIVE mu_i+z <= (d-1)*(1+sigma_R)",
+    "drop_z": "B+sum_ACTIVE mu_i <= (d-1)*(1+sigma_R), improves139 RHS by sigma_R",
+    "weak": "B+2*a+z <= (d-1)*(1+sigma_R)",
+    "reason": "At each singular target point set k=min_incident n_i>=1. Local E term>=M*k-k>=(M-1); if N=0,M>=2 it is>=M. Thus nonarrival costs weighted holes instead of evading target branch gluing."
+  },
+  "limits": [
+    "No general contradiction/new actual configuration exclusion or source reconstruction.",
+    "If sigma_R=0 then z=0; no gain over139 by this estimate.",
+    "Unibranch cusps have M-1=0; neither target nor source smoothness follows.",
+    "Do NOT assert sigma_C>=sigma_R alone: omitted target nodes can have no source gluing; W+sigma_C is the valid bound.",
+    "No137 OFF-R formula applied ON R. No finitecompletion/boundary point promoted to originalsource point.",
+    "No ordinary generation by one meridian per component assumed. Previous skipped exploration rejected normalgeneration-to-supportdegree shortcut; group-only S_d transposition normally generates with only2 moved labels, not actualKeller example.",
+    "B may be negative. No Euler positivity introduced.",
+    "ActualF/fullJac/sourcefactor/complete originalsourcepuncture-centers-keypoly still missing."
+  ],
+  "authority_unchanged": {
+    "library_file_id": "libfile_34225add3e208191b3e78a95758d01c0",
+    "file_id": "file_00000000626c81f7be98a3862dc4ab2d",
+    "version": 5,
+    "bytes": 61457720,
+    "sha256": "e8c523588c0e1a7e0c38ed30c299b7d16510ebae8bcf6e27877ff348ea99acbd",
+    "CRC": 71,
+    "manifest": 70
+  },
+  "authority_PDF_unchanged": {
+    "library_file_id": "libfile_9a0588cebf74819189cb19c9891da43e",
+    "file_id": "file_00000000bf0481f581ccfbe4f5d2bf3d",
+    "version": 3,
+    "bytes": 429203,
+    "sha256": "53c75b78ae1313d995302fd82bd9d86f412de731e3800a223812ed4a01b03464"
+  },
+  "conditional_ledger_unchanged": {
+    "remaining": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cumulative": [
+      52,
+      152,
+      32,
+      56
+    ],
+    "raw_ids": "unchanged; no excluded state revived; no extrapolation to arbitrary full SF"
+  },
+  "checkpoint": {
+    "name": "JC_run140_branch_cost_audit.zip",
+    "library_file_id": "libfile_705a60f06ab08191bf76908833a984f5",
+    "file_id": "file_0000000012fc81f78ae09d8a1ea960a7",
+    "version": 1,
+    "path": "restored_run140_saved/checkpoint/JC_run140_branch_cost_audit.zip",
+    "bytes": 7305678,
+    "sha256": "bf71def77a8c8f8536b73acbed5b84108bcdbbafd336f7d7f870a01c3916ff91",
+    "safe_unique_CRC": 13,
+    "manifest": 12,
+    "every_literal_equal_stage_and_extract": true,
+    "restored_verify": "Actual RUN140 PACKAGING2 EXIT0; only literalmanifest/exact139baseline13CRC12manifest/history. NO mathematical program executed.",
+    "verify_log": {
+      "path": "tmp/run140_restore_verify.log",
+      "bytes": 137,
+      "sha256": "9a00d8a8cb81200157f81fcb8b1c19cdffaa46bcdb807b1d5fd5dc8c97bbd660"
+    }
+  },
+  "baseline139": {
+    "packaged_once": true,
+    "bytes": 7185902,
+    "sha256": "0c98b7cf115a6ff27a1af62841337ab4c1870516846075f56492c5614a7e00b5",
+    "CRC": 13,
+    "manifest": 12,
+    "full_chains_retained": true
+  },
+  "preread": "ROOT read current139receipt FULL163lines in2nontruncatedwindows; fresh matching saved139ZIP SHA13CRC12manifest/EVERYextractliteral before reuse, no new139download. Agent scopes stated individually in complete proof files; no fresh entire authorityv5verification claim byROOT thisrun. Older interfaces explicitly inherited.",
+  "proof_files": {
+    "geometry.txt": {
+      "path": "restored_run140_saved/checkpoint/extracted/proofs/geometry.txt",
+      "bytes": 10053,
+      "sha256": "984eeeedb8d91f3ceff084a73d83300b8f8c277bf16c64d915480a195edbd0db"
+    },
+    "component.txt": {
+      "path": "restored_run140_saved/checkpoint/extracted/proofs/component.txt",
+      "bytes": 7240,
+      "sha256": "2f48e348b70d0b16238c97a84127a7077065e4bd9f9bfa1b783d066fb91345d0"
+    },
+    "counteraudit.txt": {
+      "path": "restored_run140_saved/checkpoint/extracted/proofs/counteraudit.txt",
+      "bytes": 8949,
+      "sha256": "90dbbac53584619383d72680f9f76b99f9df189562e9574aaab3bac6ab41980d"
+    },
+    "root.txt": {
+      "path": "restored_run140_saved/checkpoint/extracted/proofs/root.txt",
+      "bytes": 5134,
+      "sha256": "62ee0885adf64c732b4a83c89da62315461effe665068b4f7fa339935393eb2f"
+    }
+  },
+  "note_zh": {
+    "path": "restored_run140_saved/checkpoint/extracted/note_zh.txt",
+    "bytes": 2462,
+    "sha256": "4cfd6caab5ca08fc9c7491ef4ab52416894a91bff71e3f148043ab64aa4ef428"
+  },
+  "primary_sources": {
+    "ROOT_fresh": "Stacks Project37.19 tag081J Lemma37.19.3 with full displayedproof read2026-10-24, https://stacks.math.columbia.edu/tag/081J . Normalization smooth/etale basechange foundation, not source of new Keller inequality.",
+    "other_foundations": "RH/finitecurve completion degree/Euler additivity inherited139; agent freshprimary scopes insideproofs."
+  },
+  "mutual_review": "Four human derivations after sharedcandidatequestions, ownbeforeforeignproofs; ROOT fullyread all3finalproofs and all3reciprocally ROOT/note/eachother EOF; no unresolved mathematical issue. No fournew independentcalculators/MAIN2 claim; packaging PASS not mathematical evidence.",
+  "history": {
+    "previous_prompt": {
+      "path": "restored_run140_saved/checkpoint/extracted/previous_continuation.json",
+      "bytes": 157092,
+      "sha256": "89d9b0de8f2c9785166aede9e66deecd0ef8ea5c2b4c92e451f827c3cf280fdd"
+    },
+    "previous_prompt_chars": 99995,
+    "previous_prompt_UTF8_sha256": "f68baa5f21bef0e66a44c01bb07401553d373016572f9f7aa78087d7b1f71282",
+    "protected_history": {
+      "path": "restored_run140_saved/checkpoint/extracted/protected_history.txt",
+      "bytes": 156004,
+      "sha256": "654d1bf46d33653ba32da03dc0222011e81f46062d31364a7493c059c601e3c0"
+    },
+    "protected_chars": 99914,
+    "exact_suffix": true,
+    "not_simplified": true
+  },
+  "corrections_and_scope": [
+    "First prestage verifier label stillRUN139; correctedRUN140 and rebuilt/reverified before final acceptance; no mathematical change.",
+    "First savedcheckpoint v0 README tail mistakenly said canonicalreceipt139. ROOT corrected PACK/README toreceipt140; guarded SAMEidentity expectedv0->v1 succeeded. Final bf71… v1 only; earlier24badce… v0 not finalacceptance. Mathematical proofs/note bytes unchanged.",
+    "Some agentproofs were not yet written at early reads; missingfile reads never counted as complete review. Final all3readEOF.",
+    "No newPDF/authorityreplacement; all previous PDFs retained inside exactbaselinechains.",
+    "This is purehumanproofaudit; verifier is packaging/history only, not new or old mathematical execution."
+  ],
+  "independent_recovery_ACKs": {
+    "geometry": "Independent actual finalv1 ZIP7305678/bf71def77a8c8f8536b73acbed5b84108bcdbbafd336f7d7f870a01c3916ff91 all13safeuniqueCRC12manifest/EVERYliteralstage+extract; all4proofs+note frozenbytes; exact99995priorprompt/99914history; actual restoredRUN140 PACKAGING2 EXIT0 and allbytes unchanged. PackagingONLY/no mathematical programs/no edits/no unresolvedissue.",
+    "component": "Independent actual finalv1 ZIP7305678/bf71def77a8c8f8536b73acbed5b84108bcdbbafd336f7d7f870a01c3916ff91 all13safeuniqueCRC12manifest/EVERYliteralstage+extract; all4proofs+note frozenbytes; exact99995priorprompt/99914history; actual restoredRUN140 PACKAGING2 EXIT0 and allbytes unchanged. PackagingONLY/no mathematical programs/no edits/no unresolvedissue.",
+    "counteraudit": "Independent actual finalv1 ZIP7305678/bf71def77a8c8f8536b73acbed5b84108bcdbbafd336f7d7f870a01c3916ff91 all13safeuniqueCRC12manifest/EVERYliteralstage+extract; all4proofs+note frozenbytes; exact99995priorprompt/99914history; actual restoredRUN140 PACKAGING2 EXIT0 and allbytes unchanged. PackagingONLY/no mathematical programs/no edits/no unresolvedissue."
+  },
+  "NEXT": "Continue global reduction using new ON-R fiber deficits and E>=sigma_R+z, seek independent actual control of B, targetbranching, activeinertia and omittedsingularpoints. Need sameactualF/fullJac/sourcefactor/complete originalsourcepuncture-centers-keypoly. Do not repeat accepted inequalities or revive conditional exclusions."
+}
